@@ -1,0 +1,23 @@
+header{
+    font-size:normal;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    color: antiquewhite;
+    background-color: beige;
+
+}
+body {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 200px;
+    text-align: center;
+    background-color: black;
+    color: azure;
+    font: 100;
+}
+img {
+    width:  100px;
+    height: 100px;
+    border-radius: 50px;
+}
